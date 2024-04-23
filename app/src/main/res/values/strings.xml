@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BusTrackerApp</string>
+    <string name="helpline">Admin: 1234999000\nPolice: 112\nAmbulance: 102\nFire Help: 101</string>
+</resources>
